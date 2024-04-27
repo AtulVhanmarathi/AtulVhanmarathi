@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I am Atul and Welcome to my GitHub page!!!
 
-- I work as a ***Data Scientist*** at Yokogawa Insilico Biotechnology.
+- I work as a ***Data Scientist*** at Calfus Inc.
 - I am currently focusing on completing more machine learning projects covering all the important concepts such as Regression, Classification, etc.
 - You can learn about my profile in detail at https://www.linkedin.com/in/atul-mahadev-vhanmarathi
 <!--
